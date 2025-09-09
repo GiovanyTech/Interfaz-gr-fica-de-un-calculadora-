@@ -1,2 +1,2 @@
-# Interfaz-gr-fica-de-un-calculadora-
-Una interfaz gráfica muy sencilla hecha con PySide6
+# Interfaz gráfica de una calculadora
+Una interfaz gráfica muy sencilla de una calculadora hecha con PySide6
